@@ -11,3 +11,5 @@
 See more at [SharpAPI.com Website &raquo;](https://sharpapi.com/)
 
 NodeJS Package coming soon in May 2024.
+
+Currently NodeJS code samples available at [Postman Documentation](https://documenter.getpostman.com/view/31106842/2s9Ye8faUp) (choose Language: NodeJS) 
