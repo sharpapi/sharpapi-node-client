@@ -1,20 +1,21 @@
-# SharpAPI Node.js Client SDK
 
-🚀 Automate workflows with AI-powered API
+![SharpAPI GitHub cover](https://sharpapi.com/sharpapi-github-php-bg.jpg "SharpAPI Laravel Client")
 
-## Leverage AI API to streamline workflows in E-Commerce, Marketing, Content Management, HR Tech, Travel, and more.
+# SharpAPI NodeJS Client SDK
+
+## 🚀 Automate workflows with AI-powered API
+
+### Leverage AI API to streamline workflows in E-Commerce, Marketing, Content Management, HR Tech, Travel, and more.
+
+See more at [SharpAPI.com Website &raquo;](https://sharpapi.com/)
+
 
 [![Version](https://img.shields.io/npm/v/sharpapi-node-client.svg)](https://www.npmjs.com/package/sharpapi-node-client)
 [![License](https://img.shields.io/npm/l/sharpapi-node-client.svg)](https://github.com/yourusername/sharpapi-node-client/blob/main/LICENSE.md)
 
-#### Save time on repetitive content analysis and generation tasks that your app users perform daily.
-
-See more at [SharpAPI.com Website »](https://sharpapi.com/)
-
 ## Requirements
 
-- Node.js >= 14.x
-
+- Node.js >= 16.x
 
 ## Installation
 
