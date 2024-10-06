@@ -5,10 +5,13 @@
 
 ## 🚀 Automate workflows with AI-powered API
 
-### Leverage AI API to streamline workflows in E-Commerce, Marketing, Content Management, HR Tech, Travel, and more.
+### Leverage AI API to streamline workflows in E-Commerce,Marketing, Content Management, HR Tech, Travel, and more.
 
 
-**SharpAPI.com Node.js SDK Client** is an AI-powered workflow automation API that enables developers to integrate advanced artificial intelligence capabilities into their Node.js applications. This SDK simplifies interaction with the SharpAPI services, providing a seamless way to leverage AI for various use cases.
+**SharpAPI.com Node.js SDK Client** enables developers to integrate advanced artificial intelligence capabilities 
+into their Node.js applications. This SDK simplifies interaction 
+with the SharpAPI services, providing a seamless way to leverage 
+AI for various use cases.
 
 See more at [SharpAPI.com Website &raquo;](https://sharpapi.com/)
 
@@ -466,6 +469,16 @@ This project is licensed under the [MIT License](LICENSE).
 ## Support
 
 If you encounter any issues or have questions, feel free to open an issue on the [GitHub repository](https://github.com/sharpapi/sharpapi-node-client/issues) or contact support at [contact@sharpapi.com](mailto:contact@sharpapi.com).
+
+---
+## Social Media
+
+🚀 For the latest news, tutorials, and case studies, don't forget to follow us on:
+- [SharpAPI X (formerly Twitter)](https://x.com/SharpAPI)
+- [SharpAPI YouTube](https://www.youtube.com/@SharpAPI)
+- [SharpAPI Vimeo](https://vimeo.com/SharpAPI)
+- [SharpAPI LinkedIn](https://www.linkedin.com/products/a2z-web-ltd-sharpapicom-automate-with-aipowered-api/)
+- [SharpAPI Facebook](https://www.facebook.com/profile.php?id=61554115896974)
 
 ---
 
