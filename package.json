@@ -1,6 +1,6 @@
 {
   "name": "@sharpapi/sharpapi-node-client",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "SharpAPI.com Node.js SDK Client - AI-powered workflow automation API.",
   "main": "src/index.js",
   "scripts": {
