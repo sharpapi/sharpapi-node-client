@@ -1,0 +1,48 @@
+{
+  "name": "@sharpapi/sharpapi-node-client",
+  "version": "1.2.0",
+  "description": "SharpAPI.com Node.js SDK Client - AI-powered workflow automation API.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "sharpapi",
+    "ai-powered",
+    "ai capabilities",
+    "api",
+    "ai api",
+    "api integration",
+    "artificial intelligence",
+    "natural language processing",
+    "restful api",
+    "nodejs",
+    "software development",
+    "content generation",
+    "content analysis",
+    "e-commerce",
+    "hr tech",
+    "travel",
+    "tourism",
+    "hospitality",
+    "marketing automation"
+  ],
+  "author": "Dawid Makowski <contact@sharpapi.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "form-data": "^4.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "prepublishOnly": "npm test",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharpapi/sharpapi-node-client.git"
+  }
+}
+
